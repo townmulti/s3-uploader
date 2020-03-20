@@ -1,7 +1,8 @@
 {
-  "name": "s3up",
-  "version": "1.0.10",
+  "name": "s3up12",
+  "version": "1.0.11",
   "description": "A simple function to upload files to Amazon S3. Refactored from my original Meteor S3 package.",
+  "homepage": "https://github.com/townmulti/s3-uploader",
   "main": "client/index.js",
   "scripts": {
     "prepublish": "node_modules/.bin/coffee --no-header --compile --output jsFromCoffee/ src/ && node_modules/.bin/babel jsFromCoffee -d ./",
