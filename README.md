@@ -3,7 +3,7 @@
 ## Sponsored by [Differential](http://www.differential.com)
 
 ### NOTES
-This is an upgrade to the original atmosphere S3 project meant to work on React, React Native, and Blaze.
+This is an upgrade to the original atmosphere S3 project meant to work on React, React Native, and Blaze.  This package was forked to update fibers for node 12.
 **THE API IS COMPLETELY DIFFERENT**
 
 # Show your support!
@@ -14,7 +14,7 @@ Star my code in github or atmosphere if you like my code or shoot me a dollar or
 ## Installation
 
 ``` sh
-$ npm i --save s3up
+$ npm i --save s3up12
 ```
 
 ## How to use
